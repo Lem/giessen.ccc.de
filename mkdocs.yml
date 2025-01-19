@@ -1,0 +1,26 @@
+site_name: Chaostreff Gießen
+repo_url: https://github.com/lem/giessen.ccc.de
+nav:
+  - Home: 'index.md'
+  - † doc_coffee: doc_coffee.md
+  - Kontakt: kontakt.md
+
+theme:
+  name: simple-blog
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  theme_style: light
+  site_name_style: normal
+  title_style: bold
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+  components:
+    site_name: true
+    title: false
+    menu: true
+    preview: false
+    footer: false
+ 
