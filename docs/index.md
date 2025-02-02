@@ -4,7 +4,7 @@ Wir sind ein Chaostreff. Sprich: Wir sind eine loser Zusammenschluss von Persone
 ## Wo?
 Willst du uns treffen? Geilo! Hier ein paar Informationen wie das am besten geht
 
-**Alle ab 19 Uhr**
+**Alle Termine ab 19 Uhr**
 #### Jeden 1. Mittwoch
 Lecker Essen und Quatschen, dafür sind wir im [Jhrings](https://jhrings.de/) anzutreffen.
 
@@ -13,7 +13,7 @@ Ludwigstraße 10
 35390 Gießen
 ```
 
-#### alle andere Mittwoche
+#### alle anderen Mittwoche
 Auch in den Räumen des Hackerspace [Mudbytes](https://mudbyte.de) sind wir anzutreffen.
 
 ```
