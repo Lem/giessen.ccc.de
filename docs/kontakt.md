@@ -1,7 +1,7 @@
 ## Mailingslite
 Unsere Mailingliste kann man bequem via Web subscriben.
 
-tcg@lists.metarheinmain.de
+`tcg@lists.metarheinmain.de`
 
 *Diese* *Liste* *ist* **subscriber-only*!
 

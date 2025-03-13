@@ -4,6 +4,7 @@ nav:
   - Home: 'index.md'
   - † doc_coffee: doc_coffee.md
   - Kontakt: kontakt.md
+  - About: about.md
 
 theme:
   name: simple-blog
