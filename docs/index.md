@@ -1,5 +1,5 @@
 ## Was?
-Wir sind ein Chaostreff. Sprich: Wir sind eine loser Zusammenschluss von Personen mit Bezug zum [Chaos](https://www.ccc.de/de/regional) ([Chaos Computer Club](https://ccc.de)).
+Wir sind ein [Chaostreff](https://www.ccc.de/de/club/chaostreffs). Sprich: Wir sind eine loser Zusammenschluss von Personen mit Bezug zum [Chaos](https://www.ccc.de/de/regional) ([Chaos Computer Club](https://ccc.de)).
 
 ## Wo?
 Willst du uns treffen? Geilo! Hier ein paar Informationen wie das am besten geht
