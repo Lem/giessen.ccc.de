@@ -1,5 +1,5 @@
 # About
-Auf dieser einige technische Daten zu dieser Website:
+Hier einige technische Daten zu dieser Website:
 
 ## Quellcode
 Der Quellcode dieser Webseite kann auf [Github](https://github.com/Lem/giessen.ccc.de) gefunden werden.

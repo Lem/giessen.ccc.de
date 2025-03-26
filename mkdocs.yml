@@ -2,7 +2,6 @@ site_name: Chaostreff Gießen
 repo_url: https://github.com/lem/giessen.ccc.de
 nav:
   - Home: 'index.md'
-  - † doc_coffee: doc_coffee.md
   - Kontakt: kontakt.md
   - About: about.md
 
