@@ -27,4 +27,4 @@ Du willst mit uns reden, ohne vor Ort zu sein?
 Dann versuch es mal auf der [Kontakt-Seite](kontakt.md).
 
 # In Gedenken
-- [† doc_coffee](/docs/doc_coffee.md)
+- [† doc_coffee](/doc_coffee/)
