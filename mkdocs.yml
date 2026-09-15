@@ -4,6 +4,8 @@ nav:
   - Home: 'index.md'
   - Kontakt: kontakt.md
   - mkdocs: mkdocs.md
+copyright: "Letzte &Auml;nderung am 16.09.2026"
+
 
 theme:
   name: mkdocs

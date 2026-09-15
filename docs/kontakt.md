@@ -7,7 +7,7 @@ Du erreichst uns per E-Mail unter
 Lass die Leerzeichen weg, wir haben bloß keinen Bock auf Spam ;) 
 
 
-## Mailingslite
+## Mailingliste
 Es gibt auch eine öffentliche Mailing-Liste wo wir Informationen teilen, 
 unsere Treffen koordinieren und Besuche von anderen Clubs planen. 
 
