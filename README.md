@@ -5,8 +5,3 @@ If `mkdocs` and `mkdocs-simple-blog` is installed, you can start the website wit
 ```sh
 mkdocs serve
 ```
-### Using the Flake
-If you're in a nix driven environment, you can use the flake:
-```nix
-nix develop -c mkdocs serve
-```

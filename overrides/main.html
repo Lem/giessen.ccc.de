@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block site_name %}
+<a href="{{ nav.homepage.url | url }}" class="navbar-brand">
+  <img src="{{ 'assets/chaosknoten.png' | url }}" alt="{{ config.site_name }}">
+  <span>{{ config.site_name }}</span>
+</a>
+{% endblock %}
+
+{% block search_button %}{% endblock %}
+
+{% block next_prev %}{% endblock %}
+
+{% block styles %}
+  {{ super() }}
+  <style>
+    .navbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .navbar-brand img {
+      height: 90px;
+      width: auto;
+    }
+  </style>
+{% endblock %}
+

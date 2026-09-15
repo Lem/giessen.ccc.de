@@ -3,10 +3,11 @@ repo_url: https://github.com/lem/giessen.ccc.de
 nav:
   - Home: 'index.md'
   - Kontakt: kontakt.md
-  - About: about.md
+  - mkdocs: mkdocs.md
 
 theme:
-  name: simple-blog
+  name: mkdocs
+  custom_dir: overrides
   favicon: assets/favicon.ico
   logo: assets/logo.png
   theme_style: light

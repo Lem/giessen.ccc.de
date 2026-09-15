@@ -1,18 +1,21 @@
-## Mailingslite
-Unsere Mailingliste kann man bequem via Web subscriben.
-
-`tcg@lists.metarheinmain.de`
-
-*Diese* *Liste* *ist* **subscriber-only*!
-
-
-
 ## E-Mail
-Mailingliste zu altmodisch? 
 
-IRC zu nerdig?
+Du erreichst uns per E-Mail unter
 
-Dann haben wir noch die normale E-Mail im Angebot: info @ giessen . ccc . de
+`info @ giessen . ccc. de`
+
+Lass die Leerzeichen weg, wir haben bloß keinen Bock auf Spam ;) 
+
+
+## Mailingslite
+Es gibt auch eine öffentliche Mailing-Liste wo wir Informationen teilen, 
+unsere Treffen koordinieren und Besuche von anderen Clubs planen. 
+
+Wenn Du überlegst Kontakt mit uns aufzunehmen oder einfach mal dabei sein
+willst, meld dich einfach hier an:
+
+[Mailingliste Abonnieren](https://lists.metarheinmain.de/postorius/lists/tcg.lists.metarheinmain.de/)
+
 
 ## Persönlich
 Geht auch! Schau einfach auf der [Hauptseite](index.md) wann wir uns treffen.

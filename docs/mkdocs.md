@@ -1,5 +1,5 @@
-# About
-Hier einige technische Daten zu dieser Website:
+# mkdocs
+Diese Website haben wir mit mkdocs erstellt. Verdammte Sch+ü#ß12 ist das unstressig :D
 
 ## Quellcode
 Der Quellcode dieser Webseite kann auf [Github](https://github.com/Lem/giessen.ccc.de) gefunden werden.
