@@ -12,13 +12,12 @@ Ludwigstraße 10
 35390 Gießen
 ```
 
-### alle anderen Mittwoche im Monat ab 19 Uhr im Mudbyte
-Basteln und babbeln, dazu Mate in den Räumen des Hackerspace des [Mudbyte e.V.](https://mudbyte.de).
+### alle anderen Mittwoche im Monat ab 19 Uhr auch im Jhrings
+Normalerweise stellt uns der [Mudbyte e.V.](https://mudbyte.de) für diese Tage seine Räume zur Verfügung 
+zum Basteln und babbeln und Mate trinken.
 
-```
-Georg-Philipp-Gail-Straße 5
-35394 Gießen
-```
+Aktuell hat der Mudbyte aber keine Räume, deshalb treffen wir uns vorerst jeden Mittwoch im Jhrings.
+
 
 Ab und zu kommts vor, dass wir spontan umdisponieren müssen. Wenn Du neu bist, guck auf unsere 
 Mailingliste oder meld dich bei uns, dann stehst du nicht allein da.
